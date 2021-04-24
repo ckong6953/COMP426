@@ -1,0 +1,180 @@
+
+#tweet-container{
+    margin: auto;
+    width: 50%;
+}
+
+.tweet{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 1%;
+}
+
+#root{
+    background-color: #4B9CD3;
+}
+
+.card-header{
+    font-size: large;
+    font-weight: bold;
+    padding: 1%;
+}
+
+#banner, .footer{
+    background-color: #13294B; 
+}
+
+#insert-area{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 1%;
+    width: 50%;
+    overflow: auto;
+}
+
+#create-tweet{
+    margin-top: 10px;
+    float: left;
+}
+
+
+#create-tweet-bar{
+    width: 50%;
+    margin-top: 15px;
+    float: left;
+}
+
+#post-tweet{
+    margin-top: 5px;
+    float: right;
+}
+
+#edit-tweet-bar{
+    width: 50%;
+    margin-top: 15px;
+    float: left;
+}
+
+#edit-tweet{
+    margin-top: 5px;
+    float: right;
+}
+
+.content{
+    overflow: auto;
+}
+
+.edit-tweet{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 1%;
+}
+
+#icon-count{
+    float: right;
+}
+
+#cancel-post{
+    margin-top: 5px;
+    margin-right: 5px;
+    float: right;
+}
+
+#cancel-edit{
+    margin-top: 5px;
+    margin-right: 5px;
+    float: right;
+}
+
+#reply-area{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+}
+
+#create-reply-bar{
+    width: 50%;
+    margin-top: 15px;
+    float: left;
+}
+
+#post-reply{
+    margin-top: 5px;
+    float: right;
+}
+
+#cancel-reply{
+    margin-top: 5px;
+    margin-right: 5px;
+    float: right;
+}
+
+#reply-area{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background-color: lightyellow;
+}
+
+#create-retweet-bar{
+    width: 50%;
+    margin-top: 15px;
+    float: left;
+}
+
+#post-retweet{
+    margin-top: 5px;
+    float: right;
+}
+
+#cancel-retweet{
+    margin-top: 5px;
+    margin-right: 5px;
+    float: right;
+}
+
+#retweet-area{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background-color: #B7D7ED;
+}
+
+.retweet-parent-body{
+    background-color: #B7D7ED;
+    margin-bottom: 10px;
+}
+
+#replies-button{
+    margin-left: auto;
+}
+
+
+#replies-text{
+    background-color: #A8CCA4;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#hide-replies-button{
+    margin-left: auto;
+}
+
+#warning{
+    margin: auto;
+    margin-top: 10px;
+    width: 60%;
+}
+
+#all-replies{
+    background-color: #D3FFCE;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}

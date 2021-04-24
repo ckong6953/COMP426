@@ -1,0 +1,16 @@
+{
+  "name": "a07",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "console": "node run_in_console.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "keypress": "^0.2.1"
+  }
+}

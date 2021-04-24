@@ -1,0 +1,174 @@
+
+h1{
+    text-align: center;
+    font-size: 450%;
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    color: #776E65;
+    margin-bottom: auto;
+}
+
+body {
+    background-color: #FAF8EF;
+}
+
+#subtitle{
+    text-align: center;
+    font-size: 150%;
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    color: #776E65;
+}
+
+#gameTable {
+    border: 10px solid #BBADA0;
+    background-color: #BBADA0;
+    border-radius: 10px;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+ 
+tr, td {
+    border: 5px solid #BBADA0;
+    border-radius: 20px;
+    text-align: center;
+    max-width: 20px;
+    width: 50px;
+    font-size: 175%;
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+#top-game{
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    
+}
+
+#reset-game{
+    display: inline-block;
+    background-color: #8F7A66;
+    color:  #FAF8EF;
+    border-radius: 5px;
+    border: 3px #8F7A66;
+    margin-left: 20px;
+    font-size: 150%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#score{
+    display: inline-block;
+    border: 3px solid #BBADA0;
+    background-color: #BBADA0;
+    color: #FAF8EF;
+    border-radius: 5px;
+    margin-right: 20px;
+    font-size: 150%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#over-display{
+    border: 10px solid #DFD5CA;
+    background-color: #DFD5CA;
+    color: #776E65;
+    font-size: 100px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+#over-text{
+    font-size: 50px;
+}
+
+#win-display{
+    border: 10px solid #DBBF6F;
+    background-color: #DBBF6F;
+    border-radius: 10px;
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    color: #F9F6F2;
+    font-size: 100px;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+
+#win-text{
+    font-size: 40px;
+}
+
+#instruct{
+    text-align: center;
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    color: #776E65;
+    font-size: large;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#tile-0, #tile-4096{
+    background-color: #CDC1B4;
+    color: #CDC1B4;
+}
+
+#tile-2, #tile-8192{
+    background-color: #EEE4DA;
+    color: #776E65;
+}
+
+#tile-4, #tile-16384{
+    background-color: #EEE1C9;
+    color: #ABA090;
+}
+
+#tile-8, #tile-16384{
+    background-color: #F3B27A;
+    color:#F9F6F2;
+}
+
+#tile-16, #tile-32768{
+    background-color: #F69664;
+    color: #F9F6F2;
+}
+
+#tile-32, #tile-65536{
+    background-color: #F77C5F;
+    color: #F9F6F2;
+}
+
+#tile-64, #tile-131072{
+    background-color: #F75F3B;
+    color: #F9F6F2;
+}
+
+#tile-128, #tile-262144{
+    background-color: #EDD073;
+    color: #F9F6F2;
+}
+
+#tile-256, #tile-524288{
+    background-color: #EDCC62;
+    color: #F9F6F2;
+}
+
+#tile-512, #tile-1048576{
+    background-color: #EDC950;
+    color: #F9F6F2;
+}
+
+#tile-1024, #tile-2097152{
+    background-color: #EDC53F;
+    color: #F9F6F2;
+}
+
+#tile-2048, #tile-4194304{
+    background-color: #EDC22E;
+    color: #F9F6F2;
+}
